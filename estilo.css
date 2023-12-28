@@ -2,3 +2,21 @@
 	padding: 0px;
 	margin: 0px;
 }
+
+body{
+	font-family: Helvetica, "Trebuchet MS", sans-serif;
+	width: 1920px;
+	border: 1px solid red;
+	padding: 10px;
+}
+
+header{
+	height: 250px;
+	width: 1800px;
+	background: url(imagens/topo-imagem-principal2.png) no-repeat;
+	margin: auto;
+	border: 1px solid red;
+	padding: 20px
+	
+}
+
